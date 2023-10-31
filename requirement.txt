@@ -1,0 +1,7 @@
+transformers==4.0.0
+sentencepiece==0.1.91
+pytorch_lightning==0.8.1
+lmdb
+setuptools==59.5.0
+torchvision==0.7.0
+boto3
