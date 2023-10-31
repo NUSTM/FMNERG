@@ -1,6 +1,6 @@
 # FMNERG
 
-Here are code and dataset for our ACL2023 paper: [Fine-Grained Multimodal Named Entity Recognition and Grounding with a Generative Framework](https://dl.acm.org/doi/10.1145/3581783.3612322)
+Here are code and dataset for our ACM MM2023 paper: [Fine-Grained Multimodal Named Entity Recognition and Grounding with a Generative Framework](https://dl.acm.org/doi/10.1145/3581783.3612322)
 
 - ## Dataset
 
