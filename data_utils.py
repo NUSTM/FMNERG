@@ -120,7 +120,7 @@ def turn_labels_to_quad_and_get_visual_features(
         try:
             img = np.load(os.path.join(img_path_vinvl, str(img_id) + '.npz'))
         except:
-            img = np.load('/root/data2/twitter_images/twitter2015_vinvl_extract36/0.jpg.npz')
+            img = np.load(os.path.join(img_path_vinvl, '0.jpg.npz'))
 
         image_num = img['num_boxes']
         image_feature_ = img['box_features']
